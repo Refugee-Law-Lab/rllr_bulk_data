@@ -3,15 +3,19 @@
 
 ### scape_rllr.ipynb
 
-Notebook to scrape the RLLR website and save the results to a json file
+Notebook to scrape the RLLR website and save the results
 
 ### analyze_rllr.ipynb
 
-Notebook to load and analyze the json file created by `scape_rllr.ipynb`
+Notebook to load and analyze the data created by `scape_rllr.ipynb`
 
-### DATA/rllr_parsed.json
+### DATA/rllr_cases.parquet
 
-JSON file containing the scraped and parsed DATA
+Parquet file containing the scraped and parsed data
+
+### DATA/YEARLY/*.json
+
+JSON file containing the scraped and parsed data
 
 ### LICENSE
 
