@@ -1,2 +1,3 @@
-DATA/rllr_raw.json
+DATA/*.json
+DATA/*.jsonl
 testing.ipynb
